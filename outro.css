@@ -1,0 +1,122 @@
+.tudo{
+
+    width: 70%;
+    margin-left: 15%;
+
+
+}
+
+select{
+
+    margin-left: 7%;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgba(165, 37, 60, 0.9);
+    border-radius: 0;
+    color: rgba(165, 37, 60, 0.9);
+    width: 90%;
+    font-size: 20px;
+}
+
+#search{
+
+    outline: none;
+    display: flex;
+    margin-top: 5%;
+    width: 100%;
+    height: 10%;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid rgba(165, 37, 60, 0.9);
+}
+
+p{
+    text-align: center;
+    color: rgba(165, 37, 60, 0.9);
+    font-weight: 700;
+    margin-top: 25px;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.ensalamento{
+
+    font-size: 25px;
+    color: rgba(165, 37, 60, 0.9);
+}
+span{
+    color: rgba(165, 37, 60, 0.9);
+    padding-right: 1%;
+    
+}
+
+.checkboxes{
+
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+
+
+}
+
+.campusselect {
+
+    margin-top: 3%;
+    margin-left: 15%;
+    padding: 5px;
+    background-color: rgba(165, 37, 60, 0.9);
+    border-radius: 20px;
+    width: 70%;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+
+.graduacao {
+
+    padding: 5px;
+    background-color: #3399ff;
+    border-radius: 20px;
+    width: 600px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+
+.especializacao {
+
+    padding: 5px;
+    margin-left: 3px;
+    border-radius: 20px;
+    background-color: rgb(117, 117, 117);
+    width: 600px;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif !important;
+
+}
+
+.puclogo{
+
+    
+    margin-left: 25%;
+    width: 45%;
+
+}
+
+#backward{
+
+    color: black;
+
+}
+
+#backwardhorarios{
+
+    padding: 10px;
+    color: black;
+
+}
+
+
